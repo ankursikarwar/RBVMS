@@ -3,7 +3,7 @@
 <br>
 <br>
 
-<img src="https://github.com/ankursikarwar/RBVMS-FE/blob/master/UI.png" alt="Image4" width="900" height="550"/>     
+<img src="https://github.com/ankursikarwar/RBVMS/blob/master/UI.png" alt="Image4" width="900" height="550"/>     
 
 <br>
 <br>
