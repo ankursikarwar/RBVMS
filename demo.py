@@ -41,8 +41,8 @@ global camera_index
 global show_attendance_obj
 
 camera_index = 0
-image_enhance = 'on'
-image_enhance_use_gpu = 'on'
+image_enhance = 'off'
+image_enhance_use_gpu = 'off'
 
 attendance = dict()
 
