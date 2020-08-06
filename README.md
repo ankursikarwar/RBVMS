@@ -1,4 +1,4 @@
-# RBVMS-FE
+# RBVMS
 
 <br>
 <br>
@@ -24,13 +24,13 @@ sudo apt install -y python3-venv
 2. Clone the Repo
 
 ```
-git clone https://github.com/ankursikarwar/RBVMS-FE.git
+git clone https://github.com/ankursikarwar/RBVMS.git
 ```
 
 3. Navigate to the sub-folder
 
 ```
-cd RBVMS-FE
+cd RBVMS
 ```
 
 4. Initialize virtual environment 
